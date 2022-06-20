@@ -1,0 +1,150 @@
+Ability Linh: 
+		Phong so 1: Phong cap cuu
+		Phong so 2: X Quang
+		Phong so 8: Khoa truyen nhiem
+		Phong so 9: ACB
+		Phong so 14: LEC
+Ability Nam: 
+		Phong so 2: X Quang
+		Phong so 4: Khoa Nhi
+		Phong so 5: Dao tao can bo y te
+		Phong so 6: Nghien cuu khoa hoc ve y hoc
+		Phong so 15: LCS
+Ability Vuong: 
+		Phong so 1: Phong cap cuu
+		Phong so 4: Khoa Nhi
+		Phong so 5: Dao tao can bo y te
+		Phong so 7: Khoa xet nghiem
+		Phong so 8: Khoa truyen nhiem
+Ability Ha: 
+		Phong so 1: Phong cap cuu
+		Phong so 2: X Quang
+		Phong so 7: Khoa xet nghiem
+		Phong so 8: Khoa truyen nhiem
+		Phong so 10: DCA
+Ability Hien: 
+		Phong so 1: Phong cap cuu
+		Phong so 3: Hoat dong xa hoi
+		Phong so 4: Khoa Nhi
+		Phong so 5: Dao tao can bo y te
+		Phong so 9: ACB
+Ability Vu: 
+		Phong so 2: X Quang
+		Phong so 3: Hoat dong xa hoi
+		Phong so 4: Khoa Nhi
+		Phong so 6: Nghien cuu khoa hoc ve y hoc
+		Phong so 10: DCA
+Ability Long: 
+		Phong so 2: X Quang
+		Phong so 3: Hoat dong xa hoi
+		Phong so 5: Dao tao can bo y te
+		Phong so 6: Nghien cuu khoa hoc ve y hoc
+		Phong so 14: LEC
+Ability Minh: 
+		Phong so 6: Nghien cuu khoa hoc ve y hoc
+		Phong so 7: Khoa xet nghiem
+		Phong so 8: Khoa truyen nhiem
+		Phong so 11: LCK
+		Phong so 15: LCS
+Ability Sang: 
+		Phong so 1: Phong cap cuu
+		Phong so 4: Khoa Nhi
+		Phong so 7: Khoa xet nghiem
+		Phong so 9: ACB
+		Phong so 11: LCK
+Ability Tung: 
+		Phong so 1: Phong cap cuu
+		Phong so 2: X Quang
+		Phong so 3: Hoat dong xa hoi
+		Phong so 10: DCA
+		Phong so 12: LPL
+Ability Viet: 
+		Phong so 2: X Quang
+		Phong so 3: Hoat dong xa hoi
+		Phong so 4: Khoa Nhi
+		Phong so 7: Khoa xet nghiem
+		Phong so 9: ACB
+Ability Anh: 
+		Phong so 4: Khoa Nhi
+		Phong so 7: Khoa xet nghiem
+		Phong so 10: DCA
+		Phong so 12: LPL
+		Phong so 13: VCS
+Ability Huy: 
+		Phong so 3: Hoat dong xa hoi
+		Phong so 5: Dao tao can bo y te
+		Phong so 6: Nghien cuu khoa hoc ve y hoc
+		Phong so 9: ACB
+		Phong so 14: LEC
+Ability Thu: 
+		Phong so 5: Dao tao can bo y te
+		Phong so 7: Khoa xet nghiem
+		Phong so 8: Khoa truyen nhiem
+		Phong so 13: VCS
+		Phong so 15: LCS
+Ability Hai: 
+		Phong so 2: X Quang
+		Phong so 3: Hoat dong xa hoi
+		Phong so 8: Khoa truyen nhiem
+		Phong so 9: ACB
+		Phong so 13: VCS
+Ability Tu: 
+		Phong so 1: Phong cap cuu
+		Phong so 5: Dao tao can bo y te
+		Phong so 8: Khoa truyen nhiem
+		Phong so 9: ACB
+		Phong so 14: LEC
+Ability Nghia: 
+		Phong so 2: X Quang
+		Phong so 3: Hoat dong xa hoi
+		Phong so 7: Khoa xet nghiem
+		Phong so 10: DCA
+		Phong so 14: LEC
+Ability Trung: 
+		Phong so 3: Hoat dong xa hoi
+		Phong so 4: Khoa Nhi
+		Phong so 6: Nghien cuu khoa hoc ve y hoc
+		Phong so 11: LCK
+		Phong so 15: LCS
+Ability Thanh: 
+		Phong so 4: Khoa Nhi
+		Phong so 5: Dao tao can bo y te
+		Phong so 7: Khoa xet nghiem
+		Phong so 8: Khoa truyen nhiem
+		Phong so 12: LPL
+Ability Duc: 
+		Phong so 1: Phong cap cuu
+		Phong so 5: Dao tao can bo y te
+		Phong so 9: ACB
+		Phong so 13: VCS
+		Phong so 15: LCS
+Ability Phuong: 
+		Phong so 5: Dao tao can bo y te
+		Phong so 6: Nghien cuu khoa hoc ve y hoc
+		Phong so 7: Khoa xet nghiem
+		Phong so 8: Khoa truyen nhiem
+		Phong so 9: ACB
+Ability Phuc: 
+		Phong so 10: DCA
+		Phong so 11: LCK
+		Phong so 12: LPL
+		Phong so 13: VCS
+		Phong so 14: LEC
+Ability Loan: 
+		Phong so 1: Phong cap cuu
+		Phong so 3: Hoat dong xa hoi
+		Phong so 5: Dao tao can bo y te
+		Phong so 7: Khoa xet nghiem
+		Phong so 15: LCS
+Ability Son: 
+		Phong so 2: X Quang
+		Phong so 9: ACB
+		Phong so 11: LCK
+		Phong so 13: VCS
+		Phong so 15: LCS
+Ability Tam: 
+		Phong so 4: Khoa Nhi
+		Phong so 6: Nghien cuu khoa hoc ve y hoc
+		Phong so 8: Khoa truyen nhiem
+		Phong so 10: DCA
+		Phong so 12: LPL
